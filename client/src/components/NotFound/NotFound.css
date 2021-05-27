@@ -1,0 +1,16 @@
+.not-found {
+  display: block;
+  margin-top: 200px;
+  text-align: center;
+}
+.not-found p {
+  font-size: 70px;
+  font-weight: bold;
+}
+.btn-gohome {
+  background-color: teal;
+  color: #fff;
+  padding: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}
